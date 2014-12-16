@@ -1,0 +1,5 @@
+C:\Users\Frank  J\documents\visual studio 2013\Projects\XMLReaderApp\XMLReaderApp\bin\Debug\XMLReaderApp.exe.config
+C:\Users\Frank  J\documents\visual studio 2013\Projects\XMLReaderApp\XMLReaderApp\bin\Debug\XMLReaderApp.exe
+C:\Users\Frank  J\documents\visual studio 2013\Projects\XMLReaderApp\XMLReaderApp\bin\Debug\XMLReaderApp.pdb
+C:\Users\Frank  J\documents\visual studio 2013\Projects\XMLReaderApp\XMLReaderApp\obj\Debug\XMLReaderApp.exe
+C:\Users\Frank  J\documents\visual studio 2013\Projects\XMLReaderApp\XMLReaderApp\obj\Debug\XMLReaderApp.pdb
